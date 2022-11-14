@@ -2,8 +2,8 @@
 
 To get application running, create a new Java project called "Pong"
 Import all files from the repo
-All files should be in src under a default package
-Run the application!
+All files should be in src under a default package.
+Now all you need to do is run the application!
 
 This game is meant for 2 players!
 
